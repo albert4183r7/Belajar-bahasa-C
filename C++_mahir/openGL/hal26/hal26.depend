@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627805591 source:c:\users\asus\onedrive\documents\c++ mahir\opengl\hal26\main.c
+	<windows.h>
+	<gl/glut.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628058387 source:c:\documents and settings\admin\my documents\albert\c++ mahir\teapot\main.c
+	<windows.h>
+	<gl/glut.h>
+

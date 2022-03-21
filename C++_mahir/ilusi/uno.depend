@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627496930 source:c:\documents and settings\admin\my documents\albert\c++ mahir\uno\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/glut.h>
+
+1627496930 source:c:\documents and settings\admin\my documents\albert\c++ mahir\ilusi\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/glut.h>
+
